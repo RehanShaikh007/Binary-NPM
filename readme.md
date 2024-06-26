@@ -1,3 +1,5 @@
+NPM Package- binrehangk
+
 Performs binary search on a sorted array.
 
  * @param {number[]} arr - The sorted array to search.
